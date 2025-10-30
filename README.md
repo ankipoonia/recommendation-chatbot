@@ -1,8 +1,6 @@
 # recommendation-chatbot
 
----
 ## Conversational AI ChatBot with Recommendation System
----
 
 <object data="chatbot_explained.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="chatbot_explained.pdf">
